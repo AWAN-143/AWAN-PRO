@@ -1,3 +1,4 @@
 import os
 print('off')
-import CRTXD
+os.system('git pull')
+exit()
